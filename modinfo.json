@@ -1,0 +1,10 @@
+{
+  "type": "code",
+  "modid": "resregrow2",
+  "name": "Resin Regrow 2",
+  "authors": ["Nietsnie"],
+  "description": "Remake of Resin Regrow",
+  "version": "1.0",
+  "side": "Server",
+  "requiredOnClient": false
+}
